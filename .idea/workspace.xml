@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76db27ec-76f9-443c-a35a-a7eac472940a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MongoDB - @172.17.0.2" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/module/manga-collector">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="manga-collector" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="manga-reader" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dFgPiVJ6ZaRVf06loBosKs4gHr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14810693" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MangaCollectorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manga-collector.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="core.mangacollector.MangaCollectorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MongoDB - @172.17.0.2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76db27ec-76f9-443c-a35a-a7eac472940a" name="Default Changelist" comment="" />
+      <created>1592026232893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592026232893</updated>
+      <workItem from="1592026237540" duration="28603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592034632200">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="282" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592034632200" />
+    <state x="478" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1592052758263">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="478" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592052758263" />
+    <state x="0" y="0" width="1366" height="732" key="#xdebugger.evaluate" timestamp="1592049282215">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="1366" height="732" key="#xdebugger.evaluate/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592049282215" />
+    <state width="505" height="466" key="DebuggerActiveHint" timestamp="1592046962832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="505" height="466" key="DebuggerActiveHint/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592046962832" />
+    <state width="1320" height="397" key="GridCell.Tab.0.bottom" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.0.center" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.0.left" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.0.right" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.1.bottom" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.1.center" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.1.left" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="397" key="GridCell.Tab.1.right" timestamp="1592053398040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="397" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592053398040" />
+    <state width="1874" height="813" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592051868759" />
+    <state width="1320" height="308" key="GridCell.Tab.2.bottom" timestamp="1592049432095">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.2.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592049432095" />
+    <state width="1874" height="441" key="GridCell.Tab.2.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592031188813" />
+    <state width="1320" height="308" key="GridCell.Tab.2.center" timestamp="1592049432095">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.2.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592049432095" />
+    <state width="1874" height="441" key="GridCell.Tab.2.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592031188813" />
+    <state width="1320" height="308" key="GridCell.Tab.2.left" timestamp="1592049432095">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.2.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592049432095" />
+    <state width="1874" height="441" key="GridCell.Tab.2.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592031188812" />
+    <state width="1320" height="308" key="GridCell.Tab.2.right" timestamp="1592049432095">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.2.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592049432095" />
+    <state width="1874" height="441" key="GridCell.Tab.2.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592031188813" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1592033884408">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592033884408" />
+    <state x="191" y="0" width="1026" height="732" key="SettingsEditor" timestamp="1592027077461">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="191" y="0" width="1026" height="732" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592027077461" />
+    <state width="683" height="366" key="XDebugger.FullValuePopup" timestamp="1592046935716">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="683" height="366" key="XDebugger.FullValuePopup/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592046935716" />
+    <state x="297" y="0" width="772" height="732" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592047700910">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="297" y="0" width="772" height="732" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592047700910" />
+    <state x="62" y="64" key="new project wizard" timestamp="1592026409728">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="62" y="64" key="new project wizard/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592026409728" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1592041933392">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592041933392" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/module/manga-collector/src/main/kotlin/core/mangacollector/service/Collector.kt</url>
+          <line>145</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
