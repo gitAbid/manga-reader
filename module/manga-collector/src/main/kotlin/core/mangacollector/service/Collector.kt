@@ -26,7 +26,7 @@ class Collector(var luRepo: LatestUpdateRepository,
         logger.info("Collector initialized")
     }
 
-   // @Scheduled(fixedRate = 900000)
+    @Scheduled(fixedRate = 900000)
     fun latestUpdate() {
         logger.info("Running latest manga updates collector")
         val initDoc = Jsoup.connect("https://mangakakalot.com/manga_list?type=latest&category=all&state=all&page=1").get()
@@ -108,13 +108,13 @@ class Collector(var luRepo: LatestUpdateRepository,
     private fun collectMangaDetail(latestManga: LatestMangaUpdate) {
         val doc = Jsoup.connect(latestManga.mangaUrl).get()
         val cover: String
-        val authors = HashSet<String>()
-        val genres = HashSet<String>()
+        val authors = LinkedHashSet<String>()
+        val genres = LinkedHashSet<String>()
         var status = ""
         var mangaLastUpdated = ""
         var rating: Double? = 0.0
         val description: String
-        val chapters = HashSet<Chapter>()
+        val chapters = LinkedHashSet<Chapter>()
 
         if (latestManga.mangaUrl.startsWith("https://mangakakalot.com/")) {
             cover = doc.select(".manga-info-pic").select("img").first().attr("abs:src")
